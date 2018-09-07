@@ -1,4 +1,4 @@
-# **CS602 Final Project: Events Manager**
+# **Events Manager in PHP**
 ##### *Author: Tom Hanover*
 ##### *Last Updated: 08.15.2018*
 ---
@@ -12,7 +12,7 @@
 ---
 
 ## 1. Project Purpose
-- Web application in PHP and MySQL to manage events (parties, festivals, tournaments, meetings, etc.)
+- Original build of a Web application in PHP and MySQL to manage events (parties, festivals, tournaments, meetings, etc.)
 - Used to manage event's details as well as invites to participants
 
 ## 2. Application Overview
